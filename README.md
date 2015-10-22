@@ -1,6 +1,6 @@
 # Project Checklist
 
-Jolly Good Code is a boutique software consultancy in Singapore that specialises in Agile software development with Ruby.
+[Jolly Good Code](http://www.jollygoodcode.com) is a boutique software consultancy in Singapore that specializes in Agile engineering with Ruby (and Rails).
 
 We do a number of projects every year and Anchors of a project are responsible for
 going through this checklist whenever we start a project.
@@ -12,7 +12,7 @@ However, depending on situations, it's ok to deviate from the checklist when req
 
 ## Project Kickoff
 
-Firstly, decide on a codename for the project, then setup services for communication and for app development between JollyGoodCoders and the Client.
+Firstly, decide on a codename for the project, then setup various services as follows, mainly for communication between JollyGoodCoders and the Client and to facilitate app development.
 
 Details of the setup are also documented in [our  Guides](https://github.com/jollygoodcode/guides/blob/master/tutorials/project-creation.md) (to be further updated).
 
@@ -101,4 +101,4 @@ Production
 
 This checklist is ever evolving and we would love to have your inputs too.
 
-Send us an issue!
+Send us an issue! :heart:
