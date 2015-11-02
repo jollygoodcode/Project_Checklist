@@ -57,7 +57,7 @@ As we start to build the project, we need to check the following:
 
 - [ ] Optimize according to suggestions by [Google's Pagespeed](https://developers.google.com/speed/pagespeed/insights/)
   - Use `heroku-deflater` - see [blog](http://jollygoodcode.github.io/2015/10/20/rails-response-and-assets-compression-on-heroku.html)
-- [ ] Enable `bullet`, and check and optmize all SQL queries
+- [ ] Enable `bullet` and `lol_dba` and check and optmize all SQL queries
 - [ ] Optimize all images with [ImageOptim](https://github.com/toy/image_optim) or [Smusher](https://github.com/grosser/smusher)
 - [ ] Enable lazy loading of images if app is image heavy
 
