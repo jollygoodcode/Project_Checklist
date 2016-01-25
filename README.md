@@ -69,7 +69,7 @@ As we start to build the project, we need to check the following:
 ### Optional
 - [ ] Ensure Web Accessibility with [WAVE](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh?hl=en-US)
 
-Production
+### Production
 - [ ] Concurrent Server
   - Puma recommended at 1-2 x `PUMA_WORKER`
 - [ ] Start your Worker?
